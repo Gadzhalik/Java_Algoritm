@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8083d18e-13cc-4ff7-8288-41af2bd19015" name="Default Changelist" comment="" />
+    <list default="true" id="8083d18e-13cc-4ff7-8288-41af2bd19015" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L3/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/L3/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hmRfDzuxxnlkZLc65lrH9U3lNt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -24,8 +32,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-15" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
@@ -56,12 +68,31 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="495" y="95" key="FileChooserDialogImpl" timestamp="1601822855578">
+    <state x="495" y="95" key="FileChooserDialogImpl" timestamp="1601825093204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1425" y="96" key="FileChooserDialogImpl/0.0.1280.688/-1920.0.1536.834@-1920.0.1536.834" timestamp="1600614410703" />
-    <state x="495" y="95" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601822855578" />
+    <state x="495" y="95" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601825093204" />
+    <state x="637" y="310" width="405" height="203" key="Github.ShareDialog" timestamp="1601824781331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="637" y="310" width="405" height="203" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1601824781331" />
+    <state x="513" y="110" key="Github.UntrackedFilesDialog" timestamp="1601824836348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="513" y="110" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601824836348" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601824408788">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -78,10 +109,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601824408788" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1601824628554">
+    <state x="277" y="0" key="SettingsEditor" timestamp="1601825094234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601824628554" />
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601825094234" />
     <state x="387" y="0" key="new project wizard" timestamp="1601823354275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
