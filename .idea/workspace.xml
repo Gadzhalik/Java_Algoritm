@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8083d18e-13cc-4ff7-8288-41af2bd19015" name="Default Changelist" comment="Commit test 1">
-      <change beforePath="$PROJECT_DIR$/L3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/L3/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="8083d18e-13cc-4ff7-8288-41af2bd19015" name="Default Changelist" comment="Commit test 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +50,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-15" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -99,7 +97,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit test" />
     <MESSAGE value="Commit test 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit test 1" />
+    <MESSAGE value="Commit test 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit test 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1601825707192">
@@ -119,34 +118,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="513" y="110" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601824836348" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601825365426">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601826718164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601825365426" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601825365426">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601826718164" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601826718164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601825365426" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601825365426">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601826718164" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601826718164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601825365426" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601825365426">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601826718164" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601826718164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601825365426" />
-    <state x="277" y="0" key="SettingsEditor" timestamp="1601825094234">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601826718164" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1601826989120">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601825094234" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601825670763">
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601826989120" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601826394536">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601825670763" />
-    <state x="387" y="0" key="new project wizard" timestamp="1601823354275">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601826394536" />
+    <state x="387" y="0" key="new project wizard" timestamp="1601826887170">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1533" y="0" key="new project wizard/0.0.1280.688/-1920.0.1536.834@-1920.0.1536.834" timestamp="1600614441035" />
-    <state x="387" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601823354275" />
+    <state x="387" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601826887170" />
   </component>
 </project>
