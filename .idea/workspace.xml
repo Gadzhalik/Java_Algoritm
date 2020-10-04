@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8083d18e-13cc-4ff7-8288-41af2bd19015" name="Default Changelist" comment="Commit test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8083d18e-13cc-4ff7-8288-41af2bd19015" name="Default Changelist" comment="Commit test 1">
       <change beforePath="$PROJECT_DIR$/L3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/L3/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +98,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit test" />
+    <MESSAGE value="Commit test 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit test 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1601825707192">
